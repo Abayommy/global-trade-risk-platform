@@ -121,22 +121,49 @@ export default function GlobalTradeRiskPlatform() {
     }
   };
 
-  const MetricCard = ({ title, value, change, icon: Icon, color = 'blue' }) => (
-    <div className={`bg-white p-6 rounded-xl shadow-lg border-l-4 border-${color}-500`}>
+  const MetricCard = ({ title, value, change, icon: Icon, color = 'blue' }) => {
+  const colorClasses = {
+    blue: {
+      border: 'border-blue-500',
+      text: 'text-blue-600',
+      icon: 'text-blue-500'
+    },
+    red: {
+      border: 'border-red-500',
+      text: 'text-red-600',
+      icon: 'text-red-500'
+    },
+    green: {
+      border: 'border-green-500',
+      text: 'text-green-600',
+      icon: 'text-green-500'
+    },
+    purple: {
+      border: 'border-purple-500',
+      text: 'text-purple-600',
+      icon: 'text-purple-500'
+    }
+  };
+
+  const classes = colorClasses[color] || colorClasses.blue;
+
+  return (
+    <div className={`bg-white p-6 rounded-xl shadow-lg border-l-4 ${classes.border}`}>
       <div className="flex items-center justify-between">
         <div>
           <p className="text-sm font-medium text-gray-600">{title}</p>
-          <p className={`text-2xl font-bold text-${color}-600`}>{value}</p>
+          <p className={`text-2xl font-bold ${classes.text}`}>{value}</p>
           {change && (
             <p className={`text-sm ${change > 0 ? 'text-green-600' : 'text-red-600'}`}>
               {change > 0 ? '↗' : '↘'} {Math.abs(change)}%
             </p>
           )}
         </div>
-        <Icon className={`h-12 w-12 text-${color}-500`} />
+        <Icon className={`h-12 w-12 ${classes.icon}`} />
       </div>
     </div>
   );
+};
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
