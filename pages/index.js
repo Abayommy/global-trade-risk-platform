@@ -701,4 +701,13 @@ export default function GlobalTradeRiskPlatform() {
               © 2025 Global Trade Risk Intelligence Platform • Built for Cross-Border Resilience
             </div>
             <div className="flex items-center space-x-6 text-sm text-gray-400">
-              <span>Data Sources: 4
+              <span>Data Sources: 47 Active</span>
+              <span>Models: 12 Running</span>
+              <span>Coverage: 195 Countries</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
