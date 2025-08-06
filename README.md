@@ -1,4 +1,4 @@
-# 🌍 Global Trade Risk Intelligence Platform
+#  Global Trade Risk Intelligence Platform
 
 ## AI-Powered Cross-Border Trade Risk Monitoring & Compliance System
 
@@ -7,15 +7,15 @@
 [![React](https://img.shields.io/badge/React-18.3.1-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-## 🚀 **Quick Start**
+##  **Quick Start**
 
-**[🎯 VIEW LIVE PLATFORM →](https://global-trade-risk-platform.vercel.app)**
+**[ VIEW LIVE PLATFORM →](https://global-trade-risk-platform.vercel.app)**
 
 Experience real-time trade risk monitoring with AI-powered insights across 195 countries.
 
 ---
 
-## 📋 **Product Overview**
+## **Product Overview**
 
 ### **Business Problem**
 Global trade operations face increasing regulatory complexity, geopolitical risks, and compliance challenges across multiple jurisdictions. Organizations need real-time visibility into cross-border transaction risks to maintain compliance and operational resilience.
@@ -28,40 +28,40 @@ An enterprise-grade AI-powered platform that provides:
 - **Integrated dashboard** for strategic decision-making
 
 ### **Key Business Value**
-- 🎯 **Reduce compliance costs** by 15-30% through automation
-- ⚡ **Accelerate decision-making** with real-time insights
-- 🛡️ **Mitigate operational risks** through predictive monitoring
-- 📈 **Improve trade efficiency** across 195+ countries
+-  **Reduce compliance costs** by 15-30% through automation
+- **Accelerate decision-making** with real-time insights
+- **Mitigate operational risks** through predictive monitoring
+  **Improve trade efficiency** across 195+ countries
 
 ---
 
-## ✨ **Core Features**
+## **Core Features**
 
-### 🔍 **Risk Overview Dashboard**
+### **Risk Overview Dashboard**
 - **Global Risk Scoring**: Real-time composite risk index (0-100 scale)
 - **Platform Health**: 99.97% uptime SLA monitoring  
 - **Live Alert Stream**: Automated notification system
 - **Predictive Analytics**: AI-powered trend forecasting
 
-### 🌐 **Cross-Border Signals**
+### **Cross-Border Signals**
 - **Country Risk Matrix**: Dynamic risk assessment across 195 countries
 - **Trade Volume Analysis**: Real-time transaction flow monitoring
 - **Compliance Scoring**: Regulatory adherence tracking per jurisdiction
 - **Risk Ranking**: Data-driven country risk prioritization
 
-### 🛡️ **Platform Integrity**
+###  **Platform Integrity**
 - **System Health**: Real-time API and infrastructure monitoring
 - **Security Metrics**: Advanced threat detection (99.8% accuracy)
 - **Performance KPIs**: Sub-50ms response time optimization
 - **Resource Management**: Automated scaling and load balancing
 
-### 📊 **Regulatory Intelligence**
+###  **Regulatory Intelligence**
 - **Compliance Timeline**: Historical regulatory adherence tracking
 - **Framework Monitoring**: MiFID II, Basel III, GDPR, PCI DSS coverage
 - **Geopolitical Events**: Impact assessment and probability scoring
 - **Regulatory Updates**: Real-time policy change notifications
 
-### 🤖 **AI Insights Engine**
+###  **AI Insights Engine**
 - **Predictive Analysis**: 94.7% accuracy risk forecasting
 - **Anomaly Detection**: Pattern recognition across trade flows
 - **Optimization Recommendations**: Data-driven process improvements
@@ -69,7 +69,7 @@ An enterprise-grade AI-powered platform that provides:
 
 ---
 
-## 🏗️ **Technical Architecture**
+## **Technical Architecture**
 
 ### **Frontend Stack**
 - **Framework**: Next.js 14.2.7 with React 18.3.1
@@ -92,7 +92,7 @@ An enterprise-grade AI-powered platform that provides:
 
 ---
 
-## 🎮 **User Experience**
+##  **User Experience**
 
 ### **Dashboard Navigation**
 5 specialized dashboards accessible via intuitive tab navigation:
@@ -104,35 +104,35 @@ An enterprise-grade AI-powered platform that provides:
 
 ### **Real-time Features**
 - ⚡ **Live Data**: Updates every 2 seconds
-- 🔔 **Smart Alerts**: Context-aware notifications
-- 📱 **Responsive Design**: Optimized for all devices
-- 🎨 **Dark Theme**: Professional enterprise aesthetic
+-  **Smart Alerts**: Context-aware notifications
+-  **Responsive Design**: Optimized for all devices
+-  **Dark Theme**: Professional enterprise aesthetic
 
 ---
 
-## 📈 **Business Metrics & KPIs**
+## **Business Metrics & KPIs**
 
 ### **Platform Coverage**
-- 🌍 **195 Countries** monitored
-- 📊 **47 Data Sources** integrated  
-- 🤖 **12 ML Models** running
-- 📈 **2.3M Predictions** daily
+-  **195 Countries** monitored
+-  **47 Data Sources** integrated  
+-  **12 ML Models** running
+- **2.3M Predictions** daily
 
 ### **Performance Indicators**
-- 🎯 **99.97% Uptime** SLA achievement
-- ⚡ **42ms** average response time
-- 🔒 **99.8%** threat detection accuracy
-- 📊 **94.7%** risk prediction accuracy
+-  **99.97% Uptime** SLA achievement
+- **42ms** average response time
+- **99.8%** threat detection accuracy
+  **94.7%** risk prediction accuracy
 
 ### **Business Impact**
-- 💰 **15% Cost Reduction** in compliance overhead
-- ⏱️ **Real-time Decision Making** capabilities
-- 🛡️ **Proactive Risk Mitigation** through AI insights
-- 📋 **Automated Compliance** monitoring
+- **15% Cost Reduction** in compliance overhead
+- **Real-time Decision Making** capabilities
+- **Proactive Risk Mitigation** through AI insights
+- **Automated Compliance** monitoring
 
 ---
 
-## 🚀 **Getting Started**
+## **Getting Started**
 
 ### **Prerequisites**
 - Node.js 18.0.0 or higher
@@ -171,7 +171,7 @@ npm run build && npm start
 
 ---
 
-## 📚 **Documentation**
+##  **Documentation**
 
 ### **API Reference**
 - Real-time data simulation
@@ -193,27 +193,27 @@ npm run build && npm start
 
 ---
 
-## 🛣️ **Product Roadmap**
+## **Product Roadmap**
 
-### **Phase 1: Core Platform** ✅ **COMPLETED**
+### **Phase 1: Core Platform**  **COMPLETED**
 - [x] Real-time dashboard implementation
 - [x] Multi-tab navigation system
 - [x] Responsive design optimization
 - [x] Production deployment
 
-### **Phase 2: Enhanced Intelligence** 🔄 **IN PROGRESS**
+### **Phase 2: Enhanced Intelligence**  **IN PROGRESS**
 - [ ] Advanced ML model integration
 - [ ] Historical data analysis
 - [ ] Custom alert configurations
 - [ ] Export and reporting features
 
-### **Phase 3: Enterprise Features** 📋 **PLANNED**
+### **Phase 3: Enterprise Features**  **PLANNED**
 - [ ] Multi-tenant architecture
 - [ ] Role-based access control
 - [ ] API gateway integration
 - [ ] Advanced analytics dashboard
 
-### **Phase 4: Global Expansion** 🌟 **FUTURE**
+### **Phase 4: Global Expansion**  **FUTURE**
 - [ ] Additional regulatory frameworks
 - [ ] Real-time data source integration
 - [ ] Mobile application development
@@ -221,7 +221,7 @@ npm run build && npm start
 
 ---
 
-## 🤝 **Contributing**
+##  **Contributing**
 
 We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on our code of conduct and development process.
 
@@ -234,25 +234,25 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 ---
 
-## 📄 **License**
+##  **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🏆 **Recognition & Awards**
+##  **Recognition & Awards**
 
 *Building next-generation fintech infrastructure for global trade resilience.*
 
 ### **Technical Excellence**
-- ⚡ **Sub-50ms Performance** optimization
-- 🎨 **Modern UI/UX** with enterprise-grade design
-- 🔒 **Security-First** architecture implementation
-- 📱 **Mobile-Responsive** cross-platform compatibility
+- **Sub-50ms Performance** optimization
+- **Modern UI/UX** with enterprise-grade design
+- **Security-First** architecture implementation
+- **Mobile-Responsive** cross-platform compatibility
 
 ---
 
-## 👥 **Team**
+## **Team**
 
 **Product Owner & Lead Developer**: [Abayomi Ajayi](https://github.com/Abayommy)
 - Full-stack development and architecture
@@ -262,7 +262,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 **Contact & Support**
+## **Contact & Support**
 
 - **GitHub**: [@Abayommy](https://github.com/Abayommy)
 - **Platform**: [Live Demo](https://global-trade-risk-platform.vercel.app)
@@ -270,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌟 **Acknowledgments**
+## **Acknowledgments**
 
 Built with cutting-edge technologies:
 - [Next.js](https://nextjs.org/) - React framework for production
@@ -281,7 +281,7 @@ Built with cutting-edge technologies:
 
 ---
 
-**⭐ If this project helps you build better trade risk management systems, please give it a star!**
+**If this project helps you build better trade risk management systems, please give it a star!**
 
 ---
 
